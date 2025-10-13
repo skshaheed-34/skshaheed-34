@@ -1,44 +1,82 @@
-👋 Hi, I'm Shaik Shaheed
-🎓 Master's Student | Computer Engineer | VLSI & Embedded Systems Enthusiast
-📍 Based in San Diego, CA |📧 skshaheed34@gmail.com
+# Hi, I'm Shaheed Basha Shaik 👋  
+🎓 M.S. Computer Engineering @ San Diego State University  
+💡 VLSI • Embedded Systems • ASIC/FPGA Design  
+📍 San Diego, CA | 📧 skshaheed34@gmail.com | [LinkedIn](https://www.linkedin.com/in/shaheedbasha) 
 
-I'm a graduate student in Computer Engineering at San Diego State University, passionate about solving real-world problems through VLSI design, embedded systems, and software development. With a strong academic foundation and hands-on experience across digital circuit design, neural network implementation, and scalable web applications, I'm currently exploring internship and research opportunities where I can contribute to cutting-edge innovation in semiconductors and embedded tech.
+## 🚀 About Me  
+I’m a passionate **Computer Engineer** with hands-on experience in **VLSI design**, **Embedded systems**, and **Hardware validation**.  
+My interests lie at the intersection of **hardware and software co-design**, where I love building intelligent, efficient systems — from transistor-level circuits to real-time firmware.
 
-💡 What I’m Working On
-Building neural network-based hardware blocks using Cadence Virtuoso
+I’m currently seeking **Full-Time opportunities** in:
+- **VLSI / ASIC / FPGA Design & Verification**
+- **Embedded Firmware Development**
+- **Post-Silicon Validation / Hardware Testing**
 
-Designing efficient VLSI circuits and performing layout verification (DRC/LVS)
+---
 
-Exploring FPGA prototyping, microcontroller programming, and RTL design
+## 🔧 Tech Stack & Tools  
 
-Contributing to full-stack projects with Angular, Python, and MySQL
+**Hardware & EDA:**  
+`Cadence Virtuoso` • `Synopsys DC` • `Vivado` • `ModelSim` • `HSPICE` • `Spectre`  
 
-🔧 Tech Stack & Tools
-Hardware & EDA: Cadence Virtuoso, Xilinx, HFSS, ADS, Verilog, SystemVerilog
-Programming: C, C++, Java, Python, Bash, TCL
-Web Development: Angular, HTML/CSS, JavaScript
-Version Control: Git, GitHub, Perforce
-Others: Jenkins, JIRA, MATLAB
+**Programming & Scripting:**  
+`C` • `C++` • `Python` • `SystemVerilog` • `Verilog` • `TCL` • `MATLAB` • `Bash`  
 
-🚀 Looking For
-I'm actively seeking internship or research opportunities in:
+**Embedded Systems:**  
+`ARM Cortex-M` • `STM32` • `Keil` • `FreeRTOS` • `I²C` • `SPI` • `UART`  
 
-VLSI Design & Verification
+**Automation & Validation:**  
+`LabVIEW` • `PyVisa` • `Matplotlib` • `Pandas` • `Signal Analyzer`  
 
-Embedded Systems
+**Version Control & Collaboration:**  
+`Git` • `GitHub` • `JIRA` • `Linux`  
 
-Digital/Analog Circuit Design
+---
 
-Hardware-Software Co-design
+## 🛠️ Featured Projects  
 
-🛠️ Projects Worth Checking Out
-🧠 Neural Network-Based Color Detection – Custom hardware classifier with 95% accuracy
+### 🔹 FPGA-Based 32-bit ALU Design  
+- Designed and verified a **32-bit pipelined ALU** in Verilog with arithmetic and logical operations.  
+- Implemented **SystemVerilog testbench** for functional verification using ModelSim.  
+- Deployed design on **Xilinx FPGA**, validating timing and performance metrics.  
+---
 
-📡 Microstrip Line RF Design – High-frequency PCB optimization
+### 🔹 Low-Power Memory Controller for ASIC  
+- Developed a **clock-gated SRAM controller** optimized for low dynamic power consumption.  
+- Simulated timing and power performance using **Cadence Spectre** and **SPICE**.  
+- Integrated into FPGA testbench for functionality validation across PVT corners.
+---
 
-🧮 16-bit ALU Design – RTL-based arithmetic logic unit in Verilog
+### 🔹 FPGA System Characterization and Automation  
+- Built **Python-based automation scripts** using PyVisa for lab equipment control and data capture.  
+- Correlated **post-silicon power measurements** with simulation results for validation.  
+- Reduced manual test time by 40% through data logging and real-time visualization.  
+---
 
-📊 Excellence Quest – Web app for employee performance tracking (Angular + GitHub CI/CD)
+### 🔹 Embedded Bootloader & Flash Memory Update Module  
+- Created a **custom bootloader** in Embedded C for firmware update from SPI Flash.  
+- Implemented **checksum validation and interrupt-safe memory mapping**.  
+- Verified using **JTAG and Serial Wire Viewer** on STM32-based target board.  
+---
 
-🙌 Let’s Connect!
-If you're working on exciting hardware/software co-design projects, or looking for a passionate intern to join your team — let’s talk! I'm always open to collaborating, contributing to open source, or exploring ideas together.
+### 🔹 Neural Network-Based Color Detection   
+- Designed a **Hardware Classifier** using Verilog and Python achieving **95% color classification accuracy**.  
+- Integrated neural logic blocks into FPGA and analyzed real-time inference latency.  
+---
+
+## 🎯 Current Focus  
+- 🧩 Designing custom digital IP blocks in **SystemVerilog**  
+- ⚙️ Building **test automation frameworks** for FPGA and SoC validation  
+- 🧠 Implementing **neural hardware accelerators** using Cadence Virtuoso  
+---
+
+## 📫 Let’s Connect  
+💼 [LinkedIn](https://www.linkedin.com/in/shaheedbasha)  
+📧 skshaheed34@gmail.com  
+🌐 [Portfolio Website](#) https://skshaheed-34.github.io/portfolio/*  
+
+If you’re working on **semiconductor, embedded, or hardware co-design projects**, I’d love to collaborate or contribute!  
+
+---
+
+⭐ **“Bridging hardware and intelligence — one design at a time.”**
