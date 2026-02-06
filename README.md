@@ -62,9 +62,13 @@ ________________________________________
 •	Automation for SoC and FPGA validation
 ________________________________________
 📫 Let’s Connect
+
 💼 LinkedIn: https://www.linkedin.com/in/shaheed-basha-shaik/
+
 📧 skshaheed34@gmail.com
+
 🌐 Portfolio: https://skshaheed-34.github.io/portfolio/
+
 
 ⭐ “Bridging hardware and intelligence — one design at a time.”
 
