@@ -1,82 +1,107 @@
-# Hi, I'm Shaheed Basha Shaik 👋  
-🎓 M.S. Computer Engineering @ San Diego State University  
-💡 VLSI • Embedded Systems • ASIC/FPGA Design  
-📍 San Diego, CA | 📧 skshaheed34@gmail.com | [LinkedIn](https://www.linkedin.com/in/shaheedbasha) 
+Hi, I’m Shaheed Basha Shaik 👋
 
-## 🚀 About Me  
-I’m a passionate **Computer Engineer** with hands-on experience in **VLSI design**, **Embedded systems**, and **Hardware validation**.  
-My interests lie at the intersection of **hardware and software co-design**, where I love building intelligent, efficient systems — from transistor-level circuits to real-time firmware.
+🎓 M.S. Computer Engineering @ San Diego State University
+💡 ASIC / SoC Design • RTL & Verification • FPGA Prototyping
+📍 San Diego, CA | 📧 skshaheed34@gmail.com
+ | LinkedIn
 
-I’m currently seeking **Full-Time opportunities** in:
-- **VLSI / ASIC / FPGA Design & Verification**
-- **Embedded Firmware Development**
-- **Post-Silicon Validation / Hardware Testing**
+🚀 About Me
 
----
+I’m a Computer Engineering graduate student with hands-on experience across ASIC/SoC design, RTL development, and design verification. My work focuses on building reliable and efficient hardware systems through SystemVerilog/UVM-based verification, RTL implementation, FPGA prototyping, and automation-driven validation.
 
-## 🔧 Tech Stack & Tools  
+I enjoy working across the design–verification boundary, debugging complex functional and timing issues using waveform analysis, coverage feedback, and structured validation workflows.
 
-**Hardware & EDA:**  
-`Cadence Virtuoso` • `Synopsys DC` • `Vivado` • `ModelSim` • `HSPICE` • `Spectre`  
+I’m currently seeking Full-Time opportunities in:
 
-**Programming & Scripting:**  
-`C` • `C++` • `Python` • `SystemVerilog` • `Verilog` • `TCL` • `MATLAB` • `Bash`  
+ASIC / RTL Design
 
-**Embedded Systems:**  
-`ARM Cortex-M` • `STM32` • `Keil` • `FreeRTOS` • `I²C` • `SPI` • `UART`  
+SoC / Design Verification
 
-**Automation & Validation:**  
-`LabVIEW` • `PyVisa` • `Matplotlib` • `Pandas` • `Signal Analyzer`  
+FPGA & Hardware Validation
 
-**Version Control & Collaboration:**  
-`Git` • `GitHub` • `JIRA` • `Linux`  
+🔧 Tech Stack & Tools
 
----
+Design Verification & RTL
+SystemVerilog • Verilog • UVM • SVA • Functional Coverage
 
-## 🛠️ Featured Projects  
+ASIC / SoC Flow
+RTL Design • Synthesis • STA • GLS • Formal Verification
 
-### 🔹 FPGA-Based 32-bit ALU Design  
-- Designed and verified a **32-bit pipelined ALU** in Verilog with arithmetic and logical operations.  
-- Implemented **SystemVerilog testbench** for functional verification using ModelSim.  
-- Deployed design on **Xilinx FPGA**, validating timing and performance metrics.  
----
+Automation & Scripting
+Python • Tcl • Bash
 
-### 🔹 Low-Power Memory Controller for ASIC  
-- Developed a **clock-gated SRAM controller** optimized for low dynamic power consumption.  
-- Simulated timing and power performance using **Cadence Spectre** and **SPICE**.  
-- Integrated into FPGA testbench for functionality validation across PVT corners.
----
+FPGA & Prototyping
+Vivado • ModelSim • FPGA Bring-Up
 
-### 🔹 FPGA System Characterization and Automation  
-- Built **Python-based automation scripts** using PyVisa for lab equipment control and data capture.  
-- Correlated **post-silicon power measurements** with simulation results for validation.  
-- Reduced manual test time by 40% through data logging and real-time visualization.  
----
+Hardware & Lab
+Oscilloscope • Logic Analyzer • Signal Generator
 
-### 🔹 Embedded Bootloader & Flash Memory Update Module  
-- Created a **custom bootloader** in Embedded C for firmware update from SPI Flash.  
-- Implemented **checksum validation and interrupt-safe memory mapping**.  
-- Verified using **JTAG and Serial Wire Viewer** on STM32-based target board.  
----
+Workflow
+Linux • Git • GitHub • JIRA
 
-### 🔹 Neural Network-Based Color Detection   
-- Designed a **Hardware Classifier** using Verilog and Python achieving **95% color classification accuracy**.  
-- Integrated neural logic blocks into FPGA and analyzed real-time inference latency.  
----
+🛠️ Featured Projects
+🔹 SoC Subsystem Verification using SystemVerilog/UVM
 
-## 🎯 Current Focus  
-- 🧩 Designing custom digital IP blocks in **SystemVerilog**  
-- ⚙️ Building **test automation frameworks** for FPGA and SoC validation  
-- 🧠 Implementing **neural hardware accelerators** using Cadence Virtuoso  
----
+Built a UVM-based verification environment for a SoC-level subsystem with bus interfaces, control registers, and memory-mapped peripherals
 
-## 📫 Let’s Connect  
-💼 [LinkedIn](https://www.linkedin.com/in/shaheedbasha)  
-📧 skshaheed34@gmail.com  
-🌐 [Portfolio Website](#) https://skshaheed-34.github.io/portfolio/*  
+Implemented constrained-random stimulus, functional coverage, and assertion-based checks to validate corner cases and drive coverage closure
 
-If you’re working on **semiconductor, embedded, or hardware co-design projects**, I’d love to collaborate or contribute!  
+Debugged RTL issues using waveform analysis and coverage feedback; automated regressions with Python/Tcl
 
----
+🔹 FPGA-Based ALU Design, Integration, and Verification
 
-⭐ **“Bridging hardware and intelligence — one design at a time.”**
+Designed a 32-bit ALU in Verilog supporting arithmetic and logical operations
+
+Developed SystemVerilog testbenches with directed and randomized tests
+
+Synthesized and validated the design on FPGA, analyzing timing and resource utilization
+
+🔹 Formal Property Verification of Control Logic
+
+Authored SystemVerilog Assertions (SVA) to verify FSM behavior, protocol correctness, and clock-gating conditions
+
+Applied formal verification techniques to explore corner cases and unreachable states
+
+Improved robustness through optimized state transitions
+
+🔹 Low-Power Memory Controller Design
+
+Designed an SRAM controller with clock-gating and low-power operating modes
+
+Balanced latency, power, and timing constraints through RTL refinement and STA-driven analysis
+
+Achieved ~20% power efficiency improvement without functional impact
+
+🔹 Digital System Integration & Timing Validation
+
+Integrated multiple RTL blocks into a system-level design with clean interfaces
+
+Performed synthesis, static timing analysis, and gate-level simulation
+
+Validated post-synthesis correctness through equivalence checking
+
+🔹 Phase-Locked Loop (PLL) Design & Simulation
+
+Designed and simulated a complete PLL including VCO, PFD, charge pump, and loop filter
+
+Analyzed stability, lock time, and frequency behavior using LTspice and MATLAB
+
+Evaluated clocking-related design tradeoffs relevant to SoC systems
+
+🎯 Current Focus
+
+RTL and IP block design in SystemVerilog
+
+UVM-based verification and coverage closure
+
+Automation for SoC and FPGA validation
+
+📫 Let’s Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/shaheed-basha-shaik/
+
+📧 skshaheed34@gmail.com
+
+🌐 Portfolio: https://skshaheed-34.github.io/portfolio/
+
+⭐ “Bridging hardware and intelligence — one design at a time.”
